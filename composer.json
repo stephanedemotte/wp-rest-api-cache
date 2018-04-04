@@ -1,0 +1,11 @@
+{
+  "name": "stephanedemotte/wp-rest-api-cache",
+  "description": "ACF REST API CACHE",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Aires Gonçalves",
+    }
+  ],
+  "minimum-stability": "dev"
+}
