@@ -4,7 +4,7 @@
   "type": "wordpress-plugin",
   "authors": [
     {
-      "name": "Aires Gonçalves",
+      "name": "Aires Gonçalves"
     }
   ],
   "minimum-stability": "dev"
